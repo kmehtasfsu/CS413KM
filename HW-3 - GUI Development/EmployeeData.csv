@@ -1,0 +1,9 @@
+first_name,last_Name,email,phone,sex,birthday,salary,department
+John, Doe, jdoe@SFSU.edu,415-555-1212,M, 07-12-1960,200000, Dept A
+Alexander, Hamilton,ahamilton@SFSU.edu,415-555-1213,M, 08-12-1898,200000, Dept B
+Franklin, Roosevelt, froosevelt@SFSU.edu,415-555-1214, M, 07-12-1886,150000, Dept C
+Thomas, Jefferson,tjefferson@SFSU.edu,415-555-1215,M, 07-12-1855,20000, Dept D
+Johnny, Appleseed, jappleseed@SFSU.edu,415-555-1313,M, 03-03-1923,80000, Dept E
+Ben, Franklin,bfranklin@SFSU.edu,415-555-1314,M, 03-03-1912,100000, Dept F
+Herb, Hoover, hhoover@SFSU.edu,415-555-1315, M, 03-03-1913,120000, Dept G
+Andrew, Jackson,ajackson@SFSU.edu,415-555-1316,M, 03-03-1916,110000, Dept H
