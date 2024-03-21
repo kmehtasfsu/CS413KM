@@ -1,0 +1,13 @@
+dateandtime,tran_type,amount,description,refID,acct_id
+07-12-1960,deposit, 500,Rent,1234 ,1
+08-12-1898,withdrawal,1000,Car Payment,2345 ,2
+07-12-1886,deposit, 2000,House Payment,3456 ,3
+07-12-1855,withdrawal,4000,Shopping,4567 ,4
+03-03-1923,deposit, 3000,Vacation,5678 ,5
+03-03-1912,withdrawal, 7000,Legal Fee,6789 ,6
+03-03-1913,deposit, 800,Medical Insurance,7890 ,7
+03-05-1916,withdrawal, 200,Doctor Visit,8901 ,8
+03-07-1923,deposit, 3000,Home Goods,5678 ,5
+03-09-1912,withdrawal, 7000,Home Improvement,6789 ,6
+04-01-1913,deposit, 800,Car Repair,7890 ,7
+04-03-1916,withdrawal, 200,Trekking Gear,8901 ,8
