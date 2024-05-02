@@ -1,0 +1,11 @@
+first_name,last_Name,email,phone,sex,birthday,addressid
+John,Doe,jdoe@SFSU.edu,415-555-1212,Male,07-12-1960,2
+Alexander,Hamilton,ahamilton@SFSU.edu,415-555-1213,Male,08-12-1898,3
+Franklin,Roosevelt,froosevelt@SFSU.edu,415-555-1214,Male,07-12-1886,4
+Thomas,Jefferson,tjefferson@SFSU.edu,415-555-1215,Male,07-12-1855,5
+Johnny,Appleseed,jappleseed@SFSU.edu,415-555-1313,Male,03-03-1923,6
+Ben,Franklin,bfranklin@SFSU.edu,415-555-1314,Male,03-03-1912,7
+Herb,Hoover,hhoover@SFSU.edu,415-555-1315,Male,03-03-1913,8
+Andrew,Jackson,ajackson@SFSU.edu,415-555-1316,Male,03-03-1916,9
+Sarah,Connor,sconnor@SFSU.edu,415-555-1317,Female,03-03-1917,1
+Hillary,Clinton,hclinton@SFSU.edu,415-555-1320,Female,03-03-1942,2
